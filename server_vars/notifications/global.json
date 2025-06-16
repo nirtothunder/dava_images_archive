@@ -1,5 +1,9 @@
 {
-    "titleText": "Глобальный тест",
-    "outputText": "Тестируем основные функции тестовой версии"
-    "imageUrl": "https://raw.githubusercontent.com/nirtothunder/blitz_server_content/refs/heads/main/server_vars/notifications/blitz_notification_header_test.png"
+    "TextData" : [
+               {
+                    "titleText": "Глобальный тест",
+                    "outputText": "Тестируем основные функции тестовой версии"
+                    "imageUrl": "https://raw.githubusercontent.com/nirtothunder/blitz_server_content/refs/heads/main/server_vars/notifications/blitz_notification_header_test.png"
+               } 
+    ]
 }
