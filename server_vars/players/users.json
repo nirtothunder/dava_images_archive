@@ -66,9 +66,9 @@
         {
             "id": 8,
             "username": "goods",
-            "passwordHash": "AjVmZ9bTwO0p3HSubmpsXUw9ksa5kiuTITYmFY/hPRc=",
-            "salt": "JoMOFqR8xVXnBZ+gThuIP1tl4Ycfk3OGm8y0pL7Cb44=",
-            "registrationDate": "2025-06-27 21:03",
+            "passwordHash": "+zsEXyeZywtaeBJDVTRZufcoBfhGlZfMYpI6HMXnvpY=",
+            "salt": "+fLzwaybx1O8K20vK32hI9nUWYtRThyJd1IrjFX4ZB0=",
+            "registrationDate": "2025-06-27 21:06",
             "banned": false,
             "isAdmin": false
         }
