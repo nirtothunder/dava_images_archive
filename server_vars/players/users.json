@@ -39,9 +39,9 @@
         {
             "id": 5,
             "username": "DEV5",
-            "passwordHash": "SSbVP866FMkX9L49DdDwnvfLkLKK91IjlQjeFOKBIiA=",
-            "salt": "7j/SBoIWUnDiIWx4I5d4EpvTsc6XNhQi+rAL/aROqqY=",
-            "registrationDate": "2025-06-27 20:09",
+            "passwordHash": "aBjydgHpZ4K8DiOQ9YJPMIPHmBrfguH6qKWZsRjV2K4=",
+            "salt": "GIAxgL9hR84F07EYBJlLphsK7KJRTHbpOn9zTU4n3hs=",
+            "registrationDate": "2025-06-27 20:11",
             "banned": false,
             "isAdmin": false
         }
