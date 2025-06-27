@@ -17,6 +17,15 @@
             "registrationDate": "2025-06-27 19:31",
             "banned": false,
             "isAdmin": false
+        },
+        {
+            "id": 3,
+            "username": "DEV3",
+            "passwordHash": "4Su69hnaCU+B8VodZHJDn9XYdP5JLOhzrZKY8Y/7/vU=",
+            "salt": "ocJSVvT7CGWHx1EFb2F7WhUkjRMmEOBbNGi+kSJguM4=",
+            "registrationDate": "2025-06-27 19:48",
+            "banned": false,
+            "isAdmin": false
         }
     ]
 }
