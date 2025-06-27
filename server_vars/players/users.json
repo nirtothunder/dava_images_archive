@@ -44,6 +44,15 @@
             "registrationDate": "2025-06-27 20:11",
             "banned": false,
             "isAdmin": false
+        },
+        {
+            "id": 6,
+            "username": "DEV6",
+            "passwordHash": "eeL4WqExkY8D4hlRN4MPfU65SaqEZuqNrsmy5nqElsM=",
+            "salt": "nFqgcu/M4nP4JsdYwMQT3jMda3BOwbpfkLzcjzjgNIQ=",
+            "registrationDate": "2025-06-27 20:19",
+            "banned": false,
+            "isAdmin": false
         }
     ]
 }
