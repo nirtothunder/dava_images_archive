@@ -71,6 +71,15 @@
             "registrationDate": "2025-06-27 21:06",
             "banned": false,
             "isAdmin": false
+        },
+        {
+            "id": 9,
+            "username": "goods22",
+            "passwordHash": "MlePJ6OxyRBhmUcjCRQIDek/67Hjn/D6Goq1mY1b60I=",
+            "salt": "iLsc4TyZj/5rnbKyj/+cVqeRk92V4THBNeUf+1RbrmA=",
+            "registrationDate": "2025-06-27 21:08",
+            "banned": false,
+            "isAdmin": false
         }
     ]
 }
