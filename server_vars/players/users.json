@@ -8,6 +8,15 @@
             "registrationDate": "2025-06-27 19:25",
             "banned": true,
             "isAdmin": true
+        },
+        {
+            "id": 2,
+            "username": "DEV2",
+            "passwordHash": "umzgv4DgZsa9BdIh33HRC6T+Hoag/yD2EXaJGtFCtuY=",
+            "salt": "NQC76uUKYbzmFefmVLlYfiAsZyJXiJtTqeOFoB2Z5RA=",
+            "registrationDate": "2025-06-27 19:31",
+            "banned": false,
+            "isAdmin": false
         }
     ]
 }
