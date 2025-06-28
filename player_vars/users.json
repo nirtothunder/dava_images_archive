@@ -1,13 +1,3 @@
 {
-    "users": [
-        {
-            "id": 1,
-            "username": "DEV",
-            "passwordHash": "xupChMAD3ftZ5qk6vJfwXbTUCwVKvd1NbcPdvCtDye4=",
-            "salt": "8lB9SP67SmEMsaLLpMuoiYRyzsLJPVVL8rMTjw2MDeI=",
-            "registrationDate": "2025-06-27 19:25",
-            "banned": false,
-            "isAdmin": true
-        }
-    ]
+    "users": []
 }
