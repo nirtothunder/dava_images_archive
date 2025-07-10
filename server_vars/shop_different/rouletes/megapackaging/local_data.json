@@ -1,0 +1,16 @@
+local_data {
+  type: "large";
+  rewards{
+    container_surpise;
+    container_customization;
+    black_box_1;
+    container_generallyfire;
+    megacontainer;
+    container_just_space;
+    container_mini_mystical;
+    container_supernova;
+    container_mystical_1;
+    container_mystical_2;
+    container_mystical_3
+  }
+}
