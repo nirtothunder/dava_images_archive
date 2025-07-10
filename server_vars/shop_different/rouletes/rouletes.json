@@ -2,11 +2,11 @@
     "rouletes": [
         {
             "name": "мегараспаковка",
-            "imageRawUrl": "https://raw.githubusercontent.com/nirtothunder/blitz_server_content/refs/heads/main/server_vars/shop_different/rouletes/currect.png?token=GHSAT0AAAAAADFXV2ZHZM6Y75B4RLYJRWUG2DPTNCA",
+            "imageRawUrl": "https://raw.githubusercontent.com/nirtothunder/blitz_server_content/refs/heads/main/server_vars/shop_different/rouletes/currect.png",
             "title": "Розыгрыш «Мегараспаковка»",
             "show": true,
-            "startTime": "2025-07-12 17:59",
-            "endTime": "2025-07-12 20:00"
+            "startTime": "2025-07-15T15:00:00",
+            "endTime": "2025-07-15T15:23:59"
         }
     ]
 }
