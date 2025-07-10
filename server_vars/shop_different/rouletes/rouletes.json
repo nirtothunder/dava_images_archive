@@ -5,8 +5,8 @@
             "imageRawUrl": "https://raw.githubusercontent.com/nirtothunder/blitz_server_content/refs/heads/main/server_vars/shop_different/rouletes/currect.png",
             "title": "Розыгрыш «Мегараспаковка»",
             "show": true,
-            "startTime": "2025-07-12 17:59",
-            "endTime": "2025-07-12 23:59"
+            "startTime": "2025-07-10T14:00:00",
+            "endTime": "2025-07-10T16:23:59"
         }
     ]
 }
