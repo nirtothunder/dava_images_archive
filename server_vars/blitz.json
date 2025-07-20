@@ -1,6 +1,6 @@
 {
     "version": "0.1.4",
-    "maintenance": true,
+    "maintenance": false,
     "min_client_version": "0.1.4",
     "server_available": 1,
     "update_message": "Open test",
