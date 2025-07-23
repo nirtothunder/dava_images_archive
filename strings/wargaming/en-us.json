@@ -5,20 +5,28 @@
     "details": "If you already have the tank in your Garage, you will receive credits or gold as compensation."
     "maycontain" {
       "tank:114sp2"{
-        "price": "7500"
+        "compensation": "7500"
         "dropchance": "2.00%"
     }
           "tank:116f3"{
-        "price": "7500"
+        "compensation": "7500"
         "dropchance": "2.00%"
     }
           "tank:lion"{
-        "price": "7500"
+        "compensation": "7500"
         "dropchance": "2.00%"
     }
           "tank:xm66f"{
-        "price": "7500"
+        "compensation": "7500"
         "dropchance": "2.00%"
+    }
+          "tank:bz-176"{
+        "compensation": "5000"
+        "dropchance": "4.00%"
+    }
+          "tank:bz-58-2"{
+        "compensation": "5000"
+        "dropchance": "4.00%"
     }
   }
   }
