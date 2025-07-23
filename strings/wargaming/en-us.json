@@ -2,8 +2,7 @@
   "party-certificate":{
     "description": "Allows you to get a random tank or one type of the Containers from the list."
     "howtoget": "Can be found in Store bundles or received as a reward during in-game activities."
-    "details": "If you already have the tank in your Garage, you will receive credits or gold as
-compensation."
+    "details": "If you already have the tank in your Garage, you will receive credits or gold as compensation."
     "maycontain" {
   }
   }
