@@ -5,28 +5,76 @@
     "details": "If you already have the tank in your Garage, you will receive credits or gold as compensation."
     "maycontain" {
       "tank:114sp2"{
-        "compensation": "7500"
-        "dropchance": "2.00%"
+            "compensation": "7500"
+            "dropchance": "2.00%"
     }
-          "tank:116f3"{
-        "compensation": "7500"
-        "dropchance": "2.00%"
+          "tank:116-f3"{
+            "compensation": "7500"
+            "dropchance": "2.00%"
     }
           "tank:lion"{
-        "compensation": "7500"
-        "dropchance": "2.00%"
+            "compensation": "7500"
+            "dropchance": "2.00%"
     }
           "tank:xm66f"{
-        "compensation": "7500"
-        "dropchance": "2.00%"
+            "compensation": "7500"
+            "dropchance": "2.00%"
     }
           "tank:bz-176"{
-        "compensation": "5000"
-        "dropchance": "4.00%"
+            "compensation": "5000"
+            "dropchance": "4.00%"
     }
           "tank:bz-58-2"{
-        "compensation": "5000"
-        "dropchance": "4.00%"
+            "compensation": "5000"
+            "dropchance": "4.00%"
+    }
+          "tank:lorraine50t"{
+            "compensation": "5000"
+            "dropchance": "4.00%"
+    }
+          "tank:elefant"{
+            "compensation": "3750"
+            "dropchance": "6.00%"
+    }
+          "tank:titanstrife"{
+            "compensation": "3750"
+            "dropchance": "6.00%"
+    }
+          "tank:vickers-mbt"{
+            "compensation": "3750"
+            "dropchance": "6.00%"
+    }
+          "tank:k-2"{
+            "compensation": "3750"
+            "dropchance": "6.00%"
+    }
+          "container:collectemall"{
+            "count": "10"
+            "dropchance": "8.00%"
+    }
+          "container:ht-container"{
+            "count": "7"
+            "dropchance": "8.00%"
+    }
+          "container:blackbox-1"{
+            "count": "10"
+            "dropchance": "8.00%"
+    }
+          "container:td-container"{
+            "count": "7"
+            "dropchance": "8.00%"
+    }
+          "container:mt-container"{
+            "count": "7"
+            "dropchance": "8.00%"
+    }
+          "container:mysterybox-1"{
+            "count": "10"
+            "dropchance": "8.00%"
+    }
+          "container:lt-container"{
+            "count": "7"
+            "dropchance": "8.00%"
     }
   }
   }
