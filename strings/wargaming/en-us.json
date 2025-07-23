@@ -4,6 +4,10 @@
     "howtoget": "Can be found in Store bundles or received as a reward during in-game activities."
     "details": "If you already have the tank in your Garage, you will receive credits or gold as compensation."
     "maycontain" {
+      "tank:114sp2"{
+        "price": "7500"
+        "dropchance": "2.00%"
+    }
   }
   }
 }
