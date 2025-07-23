@@ -7,6 +7,18 @@
       "tank:114sp2"{
         "price": "7500"
         "dropchance": "2.00%"
+    };
+          "tank:116f3"{
+        "price": "7500"
+        "dropchance": "2.00%"
+    };
+          "tank:lion"{
+        "price": "7500"
+        "dropchance": "2.00%"
+    };
+          "tank:xm66f"{
+        "price": "7500"
+        "dropchance": "2.00%"
     }
   }
   }
