@@ -1,5 +1,9 @@
 {
   "party-certificate":{
-    
+    "description": "";
+    "howtoget": "";
+    "details": "";
+    "maycontain" {
+  }
   }
 }
