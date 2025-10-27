@@ -1,1 +1,1 @@
-# blitz_server_content
+# Image content from World of Tanks Blitz and russian Tanks Blitz
